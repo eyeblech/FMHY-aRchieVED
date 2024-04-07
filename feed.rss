@@ -1,0 +1,1787 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>FMHY blog</title>
+        <link>https://fmhy.net</link>
+        <description>The largest collection of free stuff on the internet!</description>
+        <lastBuildDate>Mon, 11 Mar 2024 03:53:47 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en-US</language>
+        <image>
+            <title>FMHY blog</title>
+            <url>https://github.com/fmhy.png</url>
+            <link>https://fmhy.net</link>
+        </image>
+        <copyright>Copyright (c) 2023-present FMHY</copyright>
+        <item>
+            <title><![CDATA[Monthly Updates [March]]]></title>
+            <link>https://fmhy.net/posts/march-2024</link>
+            <guid>https://fmhy.net/posts/march-2024</guid>
+            <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h1 id="wiki-updates" tabindex="-1">Wiki Updates <a class="header-anchor" href="#wiki-updates" aria-label="Permalink to &quot;Wiki Updates&quot;">&ZeroWidthSpace;</a></h1>
+<ul>
+<li>
+<p>Added custom search engines (CSE) for <a href="https://cse.google.com/cse?cx=f7a118c70d0804fc4" target="_blank" rel="noreferrer">Courses</a> and <a href="https://cse.google.com/cse?cx=82154ebab193e493d" target="_blank" rel="noreferrer">Fonts</a>.</p>
+</li>
+<li>
+<p>Added section for <a href="https://fmhy.net/miscguide#productivity-tools" target="_blank" rel="noreferrer">Productivity Tools</a> in Useful Sites.</p>
+</li>
+<li>
+<p>Added section for <a href="https://fmhy.net/file-tools#file-recovery" target="_blank" rel="noreferrer">File Recovery</a> in File Tools.</p>
+</li>
+<li>
+<p>Added section for <a href="https://fmhy.net/adblockvpnguide#fingerprinting-tracking" target="_blank" rel="noreferrer">Fingerprinting / Tracking</a> in Privacy.</p>
+</li>
+<li>
+<p>Added sections for <a href="https://fmhy.net/gamingpiracyguide#mario-kart-tools" target="_blank" rel="noreferrer">Mario Kart</a> + <a href="https://fmhy.net/gamingpiracyguide#geometry-dash-tools" target="_blank" rel="noreferrer">Geometry Dash</a> in Gaming.</p>
+</li>
+<li>
+<p>Added section for <a href="https://fmhy.net/miscguide#crypto-bitcoin" target="_blank" rel="noreferrer">Crypto / Bitcoin</a> in Career.</p>
+</li>
+<li>
+<p>Added section for <a href="https://fmhy.net/linuxguide#raspberry-pi" target="_blank" rel="noreferrer">Raspberry Pi</a> in Linux.</p>
+</li>
+<li>
+<p>Added sections for <a href="https://fmhy.net/img-tools#design-apps" target="_blank" rel="noreferrer">Design Apps</a> + <a href="https://fmhy.net/img-tools#free-assets" target="_blank" rel="noreferrer">Design Assets</a> in Image Tools.</p>
+</li>
+<li>
+<p>Our Minecraft Server is now live. Click <strong><a href="https://fmhy.net/posts/minecraft-server" target="_blank" rel="noreferrer">here</a></strong> to join.</p>
+</li>
+<li>
+<p>Moved <code>fmhy.tk</code> to <code>old.fmhy.net</code></p>
+</li>
+</ul>
+<hr>
+<h1 id="stars-added-⭐" tabindex="-1">Stars Added ⭐ <a class="header-anchor" href="#stars-added-⭐" aria-label="Permalink to &quot;Stars Added ⭐&quot;">&ZeroWidthSpace;</a></h1>
+<ul>
+<li>
+<p>Starred <a href="https://fmhy.net/audiopiracyguide#audio-downloading" target="_blank" rel="noreferrer">yet another music server</a> in Audio Downloading. Multi-site DDL (deezer, qobuz, tidal, spotify, youtube, FLAC.)</p>
+</li>
+<li>
+<p>Starred <a href="https://fmhy.net/ai#online-chatbots" target="_blank" rel="noreferrer">wrtn</a> in Online Chatbots. No limit GPT-4, tell it to always talk in english.</p>
+</li>
+<li>
+<p>Starred <a href="https://fmhy.net/videopiracyguide#streaming-sites" target="_blank" rel="noreferrer">M4UFree + YesMovies</a> in Streaming. Both have huge libraries, fast 1080p, and have been around for over a decade.</p>
+</li>
+<li>
+<p>Starred <a href="https://fmhy.net/ai#online-generators" target="_blank" rel="noreferrer">Poe</a> in Image Generators. 100 SDXL and 100 Playground Gens.</p>
+</li>
+<li>
+<p>Starred <a href="https://fmhy.net/storage#minecraft-optimization-mods" target="_blank" rel="noreferrer">Simply Optimized</a> in Minecraft Optimization. Some prefer this to Fabulously Optimized.</p>
+</li>
+<li>
+<p>Starred <a href="https://fmhy.net/torrentpiracyguide#aggregators" target="_blank" rel="noreferrer">SolidTorrents</a> in Torrent Aggregators.</p>
+</li>
+<li>
+<p>Starred <a href="https://fmhy.net/videopiracyguide#live-tv-sports" target="_blank" rel="noreferrer">MrGamingStreams</a> in Live TV. Fast streams, nice UI, no ads.</p>
+</li>
+<li>
+<p>Starred <a href="https://fmhy.net/videopiracyguide#sports-streaming" target="_blank" rel="noreferrer">720pier</a> in Sports Streaming. Sport replay torrents.</p>
+</li>
+<li>
+<p>Starred <a href="https://fmhy.net/social-media-tools#youtube-customization" target="_blank" rel="noreferrer">Enhancer for YT</a> in YouTube Customization. YouTube enhancement extension.</p>
+</li>
+<li>
+<p>Starred <a href="https://fmhy.net/videopiracyguide#tracking-discovery" target="_blank" rel="noreferrer">RatS</a> in Tracking / Discovery. Sync media ratings between sites.</p>
+</li>
+</ul>
+<hr>
+<h1 id="things-removed" tabindex="-1">Things Removed <a class="header-anchor" href="#things-removed" aria-label="Permalink to &quot;Things Removed&quot;">&ZeroWidthSpace;</a></h1>
+<ul>
+<li>
+<p>Removed Vendetta from Android as the devs have <a href="https://i.imgur.com/F4o2ela.png" target="_blank" rel="noreferrer">shut it down</a>.</p>
+</li>
+<li>
+<p>Removed TTV LOL as it stopped working.</p>
+</li>
+<li>
+<p>Unstarred  bypass.vip and FastForward as they <a href="https://i.imgur.com/EMRcqX6.png" target="_blank" rel="noreferrer">don't work as well</a> as they used to.</p>
+</li>
+<li>
+<p>Unstarred claude in chatbots as it requires email + phone number and doesn't give as good results as it used to.</p>
+</li>
+<li>
+<p>Unstarred Harmonoid as its not longer being updated and has 100+ issues on github.</p>
+</li>
+</ul>
+<hr>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Our stance on Download Pirate]]></title>
+            <link>https://fmhy.net/posts/Download-Pirate</link>
+            <guid>https://fmhy.net/posts/Download-Pirate</guid>
+            <pubDate>Sun, 18 Feb 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<Post authors="['nbats']" /><p>For those of you who don't know, the VFX site Download Pirate was removed by /r/Piracy and placed in their unsafe list following this <a href="https://redd.it/1aswsl7" target="_blank" rel="noreferrer">thread</a>. According to the post, OP downloaded Adobe Acrobat and got a pretty nasty trojan.</p>
+<p>To test this we downloaded it and <a href="https://ibb.co/rGHXT0w" target="_blank" rel="noreferrer">checked the checksum</a> of each of the files compared to m0nkrus, and they match exactly. Its hard to say what happened to OP, but it seems pretty likely that they got the trojan from something other than Download Pirate.</p>
+<p>If someone has a virustotal scan, or some sort of proof Download Pirate is malicious please <a href="https://redd.it/1atkloc" target="_blank" rel="noreferrer">let us know</a>.</p>
+<hr>
+<p><strong>update</strong> - Here's a setup scan thanks to /u/LichessLuvr which seems to be clean: <a href="https://www.virustotal.com/gui/file/04889538532f10f910029a5ef65068aed713019fb50462546e82ee8ced81350b" target="_blank" rel="noreferrer">Adobe Acrobat Pro DC 2023 v23.8.20421 x64</a></p>
+<hr>
+<p><strong>update 2</strong> - We just scanned all of the <a href="https://ibb.co/VxBwzN3" target="_blank" rel="noreferrer">patched files</a> and they came back clean too, so this is unlikely to have malware unless its hidden really well within the ISO. OP either got malware from an ad on the file host or already had the trojan before installing Acrobat.</p>
+<p>We're still open to new evidence if someone comes forward with it, but for now we can't find any reason to think they're malicious so we're going to keep them in FMHY. The version OP downloaded is v23.8.20421 from 1cloudfile if someone wants to check it themselves.</p>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Minecraft Server]]></title>
+            <link>https://fmhy.net/posts/minecraft-server</link>
+            <guid>https://fmhy.net/posts/minecraft-server</guid>
+            <pubDate>Sun, 11 Feb 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<Post authors="['nbats']" /><h3 id="join-at-fmhy-net" tabindex="-1">Join at: <code>fmhy.net</code> <a class="header-anchor" href="#join-at-fmhy-net" aria-label="Permalink to &quot;Join at: `fmhy.net`&quot;">&ZeroWidthSpace;</a></h3>
+<ul>
+<li>You will be spawned at the hub.</li>
+<li>To go to vanilla, head to the end portal.</li>
+<li>To go to modded, head to the nether portal.</li>
+<li>Modded requires Minecraft 1.20.1 Forge.</li>
+<li>Vanilla requires Minecraft 1.20.4.</li>
+</ul>
+<h3 id="mod-downloads" tabindex="-1">Mod Downloads <a class="header-anchor" href="#mod-downloads" aria-label="Permalink to &quot;Mod Downloads&quot;">&ZeroWidthSpace;</a></h3>
+<p><strong>Attached is the mod pack for modded</strong>:
+<a href="https://qiwi.gg/file/acC63146-mods" target="_blank" rel="noreferrer">RAR</a> + <a href="https://rentry.org/fmhy-modded" target="_blank" rel="noreferrer">Guide</a></p>
+<p>or you could use the
+<a href="https://discord.com/channels/956006107564879872/1206145102217486366/1206145423689908224" target="_blank" rel="noreferrer"><code>.mrpack files</code></a>
+and add it to Prism or other compatible launchers.</p>
+<p><a href="https://qiwi.gg/file/cSee7776-FMHYServerPackClientPP" target="_blank" rel="noreferrer">Optional Modpack with QOL mods added</a></p>
+<p>Minecraft Dynmap: <a href="https://survival.dynmap.fmhy.net" target="_blank" rel="noreferrer">Vanilla</a> or
+<a href="https://modded.dynmap.fmhy.net" target="_blank" rel="noreferrer">Modded</a></p>
+<h3 id="things-to-know" tabindex="-1">Things to Know <a class="header-anchor" href="#things-to-know" aria-label="Permalink to &quot;Things to Know&quot;">&ZeroWidthSpace;</a></h3>
+<ul>
+<li>If it times out when joining then just try rejoining again.</li>
+<li>If you get stuck in the lobby, use the command <code>/server modded</code>
+or <code>/server survival</code> to join.</li>
+<li>If you can't break blocks or it's glitching, you are probably too close to the
+spawn and need to go farther.</li>
+<li>(Modded) To set a skin, use the <code>/skin</code> command.</li>
+<li>To hide yourself from being shown in Dynmap, run this command <code>/dynmap hide</code>.</li>
+<li>Simple Voice Chat mod is supported on Modded and (optional) Vanilla servers.</li>
+<li>For modded 6GB+ RAM is required, but 12GB+ is recommended.</li>
+</ul>
+<p>Have fun! ♥️</p>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Monthly Updates [Feb]]]></title>
+            <link>https://fmhy.net/posts/feb-2024</link>
+            <guid>https://fmhy.net/posts/feb-2024</guid>
+            <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<Post authors="['nbats']" /><h3 id="wiki-updates" tabindex="-1">Wiki Updates <a class="header-anchor" href="#wiki-updates" aria-label="Permalink to &quot;Wiki Updates&quot;">&ZeroWidthSpace;</a></h3>
+<ul>
+<li>
+<p>Our official pastebin, <strong><a href="https://pastes.fmhy.net/" target="_blank" rel="noreferrer">snowbin</a></strong> is now live!
+Keep in mind pastes only last for 7 days, and as of now you can't make edits,
+but we may add features like this in the future.</p>
+</li>
+<li>
+<p>Ran a <a href="https://i.imgur.com/73paJlr.png" target="_blank" rel="noreferrer">poll</a> regarding streaming sites, and
+used the results to help us re-order the
+<a href="/videopiracyguide.html">streaming section.</a></p>
+</li>
+<li>
+<p>Turned Spotify into its own section w/ subsections:
+<a href="/audiopiracyguide.html#spotify-clients">Clients</a>,
+<a href="/audiopiracyguide.html#spotify-adblockers">Adblockers</a>,
+<a href="/audiopiracyguide.html#spotify-download">Download</a> and
+<a href="/audiopiracyguide.html#spotify-tools">Tools</a>.</p>
+</li>
+<li>
+<p>Added a section for
+<a href="/audiopiracyguide.html#media-soundtracks">Soundtracks</a> in Audio.</p>
+</li>
+<li>
+<p>Added sections for
+<a href="/devtools.html#computer-science">Computer Science</a> and
+<a href="/devtools.html#docker-tools">Docker</a> in Dev Tools.</p>
+</li>
+<li>
+<p>Added a section for
+<a href="/adblockvpnguide.html#two-factor-authentication">Two-Factor Authentication</a>
+in Web Privacy.</p>
+</li>
+<li>
+<p>Re-organized <a href="/readingpiracyguide.html#magazines">Magazine Sites</a> +
+added filehosts to their descriptions.</p>
+</li>
+<li>
+<p>Removed OnStream from unsafe sites. The <a href="https://rentry.co/upo2r" target="_blank" rel="noreferrer">&quot;evidence&quot;</a>
+we had listed wasn't very solid. If someone has more proof we can re-consider,
+but for now we don't have reason enough to call them unsafe. Keep in mind its
+not posted in the wiki, just removed from our unsafe list.</p>
+</li>
+<li>
+<p>We recently moved off Netlify, and soon after a scammer
+<a href="https://i.imgur.com/rByoHnf.png" target="_blank" rel="noreferrer">took over the domain</a>. If you had this page
+bookmarked we'd highly recommend you remove it, and update to our
+<a href="/">new domain</a>. We've tried reporting it to Netlify, but so
+far they haven't done anything.</p>
+</li>
+<li>
+<p>Grammar issues have been fixed
+<a href="https://github.com/fmhy/FMHYedit/pull/1337" target="_blank" rel="noreferrer">throughout the wiki</a> /
+<a href="https://github.com/fmhy/FMHYedit/pull/1340" target="_blank" rel="noreferrer">2</a> /
+<a href="https://github.com/fmhy/FMHYedit/pull/1339" target="_blank" rel="noreferrer">3</a>. Remember that anyone can send
+<a href="https://github.com/fmhy/FMHYedit" target="_blank" rel="noreferrer">pull requests</a> to our github so don't be
+afraid to help us fix things like this.</p>
+</li>
+<li>
+<p>Added a mirror of our site to <a href="https://fmhy.github.io/FMHYedit/" target="_blank" rel="noreferrer">github.io</a>.</p>
+</li>
+</ul>
+<hr>
+<p><strong>Stars Added</strong> ⭐</p>
+<ul>
+<li>
+<p>Starred updated guides for both
+<a href="/system-tools.html#windows-isos">Windows Piracy</a> and
+<a href="/text-tools.html#text-editors">Office Piracy</a>.</p>
+</li>
+<li>
+<p>Starred <a href="/file-tools.html#file-hosts">Buzzheavier</a> in File Hosts.
+No upload limit, files last forever.</p>
+</li>
+<li>
+<p>Starred <a href="/internet-tools.html#url-tools">Linqbin</a> in URL Tools.
+Privacy focused temp link shortener/pastebin, made by one of our discord mods.</p>
+</li>
+<li>
+<p>Starred <a href="/gamingpiracyguide.html#game-repacks">Gnarly Repacks</a> in
+Game Repacks + ROMs. Trusted repacker who's been around for years.</p>
+</li>
+<li>
+<p>Starred <a href="/videopiracyguide.html#multi-server">PrimeFlix</a> in
+Streaming Sites. Nice UI, fast 1080p, lots of hosts.</p>
+</li>
+<li>
+<p>Starred <a href="/videopiracyguide.html#download-sites">LightDLMovies</a> in
+Video Download. Fast, single click, 1080p downloads.</p>
+</li>
+<li>
+<p>Starred <a href="/videopiracyguide.html#anime-downloading">Flugel Anime</a> in
+Anime DDL. Archive of nyaa.si with fast downloads.</p>
+</li>
+<li>
+<p>Starred
+<a href="/social-media-tools.html#fediverse-tools">Divisions by zero</a> in
+Fediverse Tools. The best piracy focused instance on Lemmy.</p>
+</li>
+<li>
+<p>Starred <a href="/downloadpiracyguide.html#software-sites">CRACKSurl</a> in
+Software Sites. Clean scans + admins are members of FMHY.</p>
+</li>
+<li>
+<p>Starred <a href="/readingpiracyguide.html#pdf-search">PDF Drive</a> in PDF
+Sites as their downloads are working again.</p>
+</li>
+<li>
+<p>Starred
+<a href="/adblockvpnguide.html#redirect-bypass">Bypass All Shortlinks</a> in
+Redirect Bypass. This is a fork of the original script with all tracking
+elements removed.</p>
+</li>
+</ul>
+<hr>
+<p><strong>Things Removed</strong></p>
+<ul>
+<li>
+<p>Removed Tachiyomi as it is
+<a href="https://tachiyomi.org/news/2024-01-13-goodbye" target="_blank" rel="noreferrer">no longer being developed</a>.
+We've replaced it with its successor
+<a href="/android-iosguide.html#android-reading">Mihon</a>, and keep in mind
+the forks linked there still work.</p>
+</li>
+<li>
+<p>Removed Revanced Extended in YouTube Apps as its been
+<a href="https://redd.it/1abt4kk" target="_blank" rel="noreferrer">archived</a>.</p>
+</li>
+<li>
+<p>Removed Nitter in Frontends as the lead dev decided to
+<a href="https://github.com/zedeus/nitter/issues/1155#issuecomment-1913361757" target="_blank" rel="noreferrer">call it quits</a>.</p>
+</li>
+<li>
+<p>Removed Erai-Raws in Anime DDL as they're closing registrations.</p>
+</li>
+<li>
+<p>Removed WorldCinema in Video DDL as they've gone premium only.</p>
+</li>
+<li>
+<p>Removed /r/ApkApps Megathread as its no longer updated.</p>
+</li>
+<li>
+<p>Removed Lunar Client in Minecraft Launchers as its closed-source and their
+privacy policy is <a href="https://i.imgur.com/2Wtds7l.png" target="_blank" rel="noreferrer">very poor</a>.</p>
+</li>
+<li>
+<p>Unstarred LibreWolf as Mullvad Browser is a similar project with
+<a href="https://i.imgur.com/GTzWHR0.png" target="_blank" rel="noreferrer">auto updates</a>.</p>
+</li>
+<li>
+<p>Unstarred Zoo in AI Chatbots as its no longer unlimited.</p>
+</li>
+<li>
+<p>Unstarred Phind in AI Chatbots as it no longer offers free GPT-4.</p>
+</li>
+</ul>
+<hr>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Monthly Updates [Jan] Happy New Year!]]></title>
+            <link>https://fmhy.net/posts/jan-2024</link>
+            <guid>https://fmhy.net/posts/jan-2024</guid>
+            <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<Post authors="['nbats', 'zinklog', 'Q', 'Kai', 'taskylizard']" /><p>Hi everyone, happy new year! As we bid farewell to '23, let's take a moment to
+reflect on the remarkable journey FMHY has had this year:</p>
+<ul>
+<li>We made a new website, enriched with an array of handcrafted features (by me,
+of course) to enhance your experience and make browsing the wiki pleasant on
+all devices (mobile included!)</li>
+<li>We opened our Discord server and reached 10k members, which introduced many
+new great people to this community and made contribution easy</li>
+<li>We've reached 250k+ members and 31 million views on reddit!</li>
+<li>Our FMHYedit repository oversaw an impressive 1k+ pull requests made by the
+community and merged over 8k commits!</li>
+<li>This wiki has grown to be more than just a piracy index, so we felt it's about
+time other sections get some love. As such, we organized and separated tools
+sections into their own pages, which allowed us to move a lot of useful tools
+out of storage and make it a lot easier to discover them</li>
+<li>We started the debloat arc of FMHY and went from 27k links to 24k! We've
+removed a lot of dead, useless, and niche links / categories, as well as
+re-organized a lot of sections for better clarity and easier navigation</li>
+</ul>
+<p>As we enter 2024, we eagerly anticipate building on our achievements and
+evolving together. FMHY wouldn't be what it is today without the love and
+support of everyone in this community. Thank you for being an integral part of
+FMHY. Here's to another year of growth and success! 💙</p>
+<h1 id="wiki-updates" tabindex="-1">Wiki Updates <a class="header-anchor" href="#wiki-updates" aria-label="Permalink to &quot;Wiki Updates&quot;">&ZeroWidthSpace;</a></h1>
+<ul>
+<li>
+<p>Made our own instances for both <strong><a href="https://searx.fmhy.net/" target="_blank" rel="noreferrer">SearX</a></strong> +
+<strong><a href="https://whoogle.fmhy.net/" target="_blank" rel="noreferrer">Whoogle</a></strong>.</p>
+</li>
+<li>
+<p>Made a <a href="/posts.html">Posts</a> page on our site, so you can see all
+updates without needing reddit. You can also follow via
+<a href="/feed.rss.html">RSS</a>.</p>
+</li>
+<li>
+<p>Created a new category for
+<a href="/social-media-tools.html">Social Media Tools</a>, and added
+subsections for popular sites that needed them. (Reddit, Discord, YouTube
+etc.)</p>
+</li>
+<li>
+<p>Added sections for
+<a href="/audiopiracyguide.html#game-soundtracks">Game Soundtracks</a>,
+<a href="/downloadpiracyguide.html#irc-tools">IRC Tools</a> and
+<a href="/devtools.html#coding-ais">Coding AIs</a>.</p>
+</li>
+<li>
+<p>Split Career into subsections:
+<a href="/miscguide.html#remote-jobs">Remote Jobs</a>,
+<a href="/miscguide.html#tech-jobs">Tech Jobs</a>,
+<a href="/miscguide.html#startup">Startup</a> and
+<a href="/miscguide.html#finance-crypto">Finance / Crypto</a></p>
+</li>
+<li>
+<p>Split Game Mods into subsections:
+<a href="/gamingpiracyguide.html#mod-indexes">Mod Indexes</a> and
+<a href="/gamingpiracyguide.html#game-mods">Single Mods</a></p>
+</li>
+<li>
+<p>Split News into subsections:
+<a href="/miscguide.html#aggregators">Aggregators</a> and
+<a href="/miscguide.html#tech-news">Tech News</a></p>
+</li>
+<li>
+<p>Re-organized both
+<a href="/android-iosguide.html#operating-systems">Android Operating Systems</a> +
+<a href="/android-iosguide.html#app-launchers">App Launchers</a>, and moved
+them out of storage.</p>
+</li>
+</ul>
+<hr>
+<h1 id="stars-added-⭐" tabindex="-1">Stars Added ⭐ <a class="header-anchor" href="#stars-added-⭐" aria-label="Permalink to &quot;Stars Added ⭐&quot;">&ZeroWidthSpace;</a></h1>
+<ul>
+<li>
+<p>Starred <a href="/videopiracyguide.html#streaming-sites">Braflix</a> in
+Streaming Sites. Fast streams, no ads, nice UI, 4K + 1080p.</p>
+</li>
+<li>
+<p>Starred <a href="/readingpiracyguide.html#ebooks">Liber3</a> in Reading Sites.
+Big library, nice UI, single click downloads.</p>
+</li>
+<li>
+<p>Starred <a href="/video-tools.html#video-players">Screenbox</a> in Video
+Players. Open-source, VLC based video player with nice UI.</p>
+</li>
+<li>
+<p>Starred <a href="/social-media-tools.html#discord-clients">Vesktop</a> in
+Discord Clients. Lightweight desktop client built with Vencord.</p>
+</li>
+<li>
+<p>Starred <a href="/ai.html#proprietary-llms">SydneyQt</a> in AI Chatbots.
+Jailbroken Bing AI.</p>
+</li>
+<li>
+<p>Starred <a href="/android-iosguide.html#foss-apks">App Manager</a> in FOSS
+APKs. Open-source Android app package manager.</p>
+</li>
+<li>
+<p>Starred <a href="/android-iosguide.html#android-device">scrcpy</a> in Android
+Tools. Manage mobile devices via desktop.</p>
+</li>
+<li>
+<p>Starred <a href="/android-iosguide.html#android-device">KernelSU</a> in
+Android Device. Root tool that some people prefer over Magisk.</p>
+</li>
+<li>
+<p>Starred <a href="/android-iosguide.html#ios-privacy">Onion Browser</a> in iOS
+Privacy. Recommended by Tor on their site.</p>
+</li>
+<li>
+<p>Starred <a href="/gamingpiracyguide.html#homebrew">Wii Guide</a> in Homebrew.</p>
+</li>
+<li>
+<p>Starred <a href="/video-tools.html#video-tools-1">Video2x</a> in Video Tools.
+Lossless video/GIF/image upscaler.</p>
+</li>
+<li>
+<p>Starred <a href="/system-tools.html#windows-updates">VCRedist</a> in Windows
+Updates. Easily download all Microsoft Visual C++ redists.</p>
+</li>
+<li>
+<p>Starred <a href="/adblockvpnguide.html#privacy-extensions">CanvasBlocker</a>
+in Privacy Extensions. Prevent Javascript API fingerprinting.</p>
+</li>
+</ul>
+<hr>
+<h1 id="things-removed" tabindex="-1">Things Removed <a class="header-anchor" href="#things-removed" aria-label="Permalink to &quot;Things Removed&quot;">&ZeroWidthSpace;</a></h1>
+<ul>
+<li>
+<p>Removed SevenGamers as they've
+<a href="https://i.imgur.com/C5sgVqI.png" target="_blank" rel="noreferrer">decided to shut down</a>.</p>
+</li>
+<li>
+<p>Removed YasDL as they uploaded a version of StarDock with the same malware
+that filecr and others have gotten removed for.</p>
+</li>
+<li>
+<p>Removed Torrentz2 as they've stopped indexing new torrents.</p>
+</li>
+<li>
+<p>Unstarred LookMovie as they've added a
+<a href="https://i.imgur.com/I0D9Hyt.png" target="_blank" rel="noreferrer">10 second wait</a> before videos play.</p>
+</li>
+<li>
+<p>Unstarred DS4Windows in gaming tools. You can just add games to steam and turn
+on PS4 controller support by right clicking the game.</p>
+</li>
+<li>
+<p>Unstarred Ideogram as its no longer unlimited.</p>
+</li>
+<li>
+<p>Removed EveryNoiseAtOnce as the dev has been
+<a href="https://i.imgur.com/AaIrcAc.png" target="_blank" rel="noreferrer">let go from Spotify</a>.</p>
+</li>
+<li>
+<p>Removed CryptoStorm as its <a href="https://i.imgur.com/VDlSY1T.png" target="_blank" rel="noreferrer">possibly unsafe</a>.
+The owner has no ties to it anymore apparently, but its still hard to trust a
+company with a history this dark.</p>
+</li>
+<li>
+<p>Removed our backups from NotABug. Their site goes down nearly
+<a href="https://i.imgur.com/Vx8Ou68.png" target="_blank" rel="noreferrer">every day</a> at this point, and its become a
+nightmare to keep 25 wiki pages updated there. If they ever fix their issues
+we may bring it back.</p>
+</li>
+</ul>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Monthly Updates [December] 250k members!!]]></title>
+            <link>https://fmhy.net/posts/dec-2023</link>
+            <guid>https://fmhy.net/posts/dec-2023</guid>
+            <pubDate>Fri, 01 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<Post authors="['nbats', 'taskylizard']" /><hr>
+<p><strong>Wiki Updates</strong></p>
+<ul>
+<li>
+<p>Separated Tool sections into their own pages: <a href="/system-tools.html">System Tools</a>,
+<a href="/file-tools.html">File Tools</a>, <a href="/internet-tools.html">Internet Tools</a>,
+<a href="/text-tools.html">Text Tools</a>,
+<a href="/video-tools.html">Video Tools</a> and
+<a href="/audio-tools.html">Audio Tools</a>.</p>
+</li>
+<li>
+<p>Separated Health into subsections: <a href="/miscguide.html#mental-health">Mental</a>,
+<a href="/miscguide.html#physical-health">Physical</a>,
+<a href="/miscguide.html#nutritional-health">Nutritional</a>,
+<a href="/miscguide.html#sexual-health">Sexual</a> and
+<a href="/miscguide.html#detoxing">Detoxing</a>.</p>
+</li>
+<li>
+<p>Added a section for <a href="/gamingpiracyguide.html#open-source-games">Open-Source Games</a>
+in Gaming.</p>
+</li>
+<li>
+<p>Added a section for <a href="/video-tools.html#animation-tools">Animation Tools</a> in Video
+Tools.</p>
+</li>
+<li>
+<p>Added a section for <a href="/readingpiracyguide.html#academic-papers">Academic Papers</a> in
+Educational Reading.</p>
+</li>
+<li>
+<p>Added sections for <a href="/img-tools.html#illustrations">Illustrations</a> and
+<a href="/storage.html#textures-patterns">Textures / Patterns</a> in Images.</p>
+</li>
+<li>
+<p>Added sections in Linux for <a href="/linuxguide.html#linux-video">Video</a>,
+<a href="/linuxguide.html#linux-audio">Audio</a>, <a href="/linuxguide.html#linux-images">Images</a> and
+<a href="/linuxguide.html#file-tools">File Tools</a>.</p>
+</li>
+<li>
+<p>Made a <a href="https://rentry.org/piracy" target="_blank" rel="noreferrer">&quot;safe for work&quot;</a> version of our index with
+no NSFW link listed.</p>
+</li>
+<li>
+<p>Added a <a href="https://i.imgur.com/wnOXvKG.png" target="_blank" rel="noreferrer">collapsible list</a> of all the Tool
+sections to our sites sidebar.</p>
+</li>
+</ul>
+<hr>
+<p><strong>Stars Added</strong> ⭐</p>
+<ul>
+<li>
+<p>Starred <a href="/videopiracyguide.html#multi-server">Streamflix</a> in Streaming Sites. Nice
+UI, fast 1080p, ran by members of our community.</p>
+</li>
+<li>
+<p>Starred <a href="/videopiracyguide.html#multi-server">watch.lonelil</a> in Streaming Sites.
+Nice UI, fast 4K + 1080p, live tv.</p>
+</li>
+<li>
+<p>Starred <a href="/gamingpiracyguide.html#download-games">Game Bounty</a> in Game Download.
+Fast hosts, pre-installs, clean uploads, ran by members of our community.</p>
+</li>
+<li>
+<p>Starred <a href="/storage.html#abandonware-games">AbandonwareGames</a> in Abandonware Games.
+Nice site with a big library of oldschool games.</p>
+</li>
+<li>
+<p>Starred <a href="/gamingpiracyguide.html#steam-epic">Heroic Games Launcher</a> in Steam /
+Epic. Open-source Epic Games launcher.</p>
+</li>
+<li>
+<p>Starred <a href="/downloadpiracyguide.html#download-directories">TG Archive</a> in Download
+Directories. Telegram file archive + search tool.</p>
+</li>
+<li>
+<p>Starred <a href="/system-tools.html#system-debloating">BleachBit</a> in system debloating.
+Popular system file cleaning tool.</p>
+</li>
+<li>
+<p>Starred <a href="/video-tools.html#youtube-download">YT-DLP-GUI</a> in YouTube Download. Nice
+GUI for YT-DL with single click installer.</p>
+</li>
+<li>
+<p>Starred <a href="/system-tools.html#system-tweaks">EverythingToolbar</a> in System Tweaks.
+Adds lots of features to Windows toolbar.</p>
+</li>
+<li>
+<p>Starred <a href="/text-tools.html#translators">DeepL</a> in Translators. People feel this
+gives some of the best results.</p>
+</li>
+<li>
+<p>Starred <a href="/gamingpiracyguide.html#optimization-tools">Magpie</a> in Gaming
+Optimization. Enable AMD FSR on any game or device.</p>
+</li>
+<li>
+<p>Starred <a href="/android-iosguide.html#ios-apps">TrollStore</a> in iOS Apps. Permanently
+install non-appstore iOS apps w/o pc, paid dev account or being jailbroken.</p>
+</li>
+<li>
+<p>Starred <a href="/videopiracyguide.html#smart-tv-firestick">SmartTube</a> in Smart TV /
+Firestick. Ad-free YouTube app. Previously called SmartTubeNext.</p>
+</li>
+</ul>
+<hr>
+<p><strong>Things Removed</strong></p>
+<ul>
+<li>
+<p>Removed both AppsTorrent and nMac as they're listed as unsafe by
+<a href="https://i.imgur.com/De9u5Ox.png" target="_blank" rel="noreferrer">MacSerialJunkie</a>.</p>
+</li>
+<li>
+<p>Removed both LocalCDN and Decentraleyes as they're redundant with with
+<a href="https://blog.privacyguides.org/2021/12/01/firefox-privacy-2021-update/#localcdn-and-decentraleyes" target="_blank" rel="noreferrer">Total Cookie Protection</a>
+enabled.</p>
+</li>
+<li>
+<p>Removed NovaAI as they've
+<a href="https://www.reddit.com/r/Piracy/comments/17pzrzj/nova_oss_the_api_that_provided_free_gpt4_and/" target="_blank" rel="noreferrer">decided to shutdown</a>.</p>
+</li>
+<li>
+<p>Replaced all CurseForge links with Modrinth as people feel CurseForge
+<a href="https://youtu.be/Vhdwz5apiQQ?si=xgzkQFa1S7hZNa5-" target="_blank" rel="noreferrer">doesn't cooperate</a> with
+their user-base well.</p>
+</li>
+<li>
+<p>Unstarred 12ft.io as it can no longer bypass non-javascript based paywalls.</p>
+</li>
+<li>
+<p>Removed FileListing as they've shutdown their servers.</p>
+</li>
+<li>
+<p>Removed GreaseMonkey as it hasn't been updated in 3 years + has a possible
+history of tracking users.</p>
+</li>
+</ul>
+<hr>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[New Website]]></title>
+            <link>https://fmhy.net/posts/new-site</link>
+            <guid>https://fmhy.net/posts/new-site</guid>
+            <pubDate>Sun, 12 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<Post authors="['taskylizard']" /><h3 id="new-url-https-fmhy-net" tabindex="-1">New URL: <a href="https://fmhy.net/" target="_blank" rel="noreferrer">https://fmhy.net/</a> <a class="header-anchor" href="#new-url-https-fmhy-net" aria-label="Permalink to &quot;New URL: https://fmhy.net/&quot;">&ZeroWidthSpace;</a></h3>
+<div class="info custom-block"><p class="custom-block-title">Old frontend</p>
+<p>You can use <a href="https://old.fmhy.net" target="_blank" rel="noreferrer">https://old.fmhy.net</a> if you'd like to use the original version.</p>
+</div>
+<p>Hey everyone, just wanted to let you all know that we're finally done with the
+new website, and are officially launching it today! I know a lot of different
+versions of FMHY have been made over the years, but we've put a ton of effort
+into this one, and honestly feel like its the best version to date.</p>
+<p>We really hope you enjoy it, and if you have any issues or suggestions feel free
+to leave them in the comments here, or by using the new feedback system built
+into the site.</p>
+<hr>
+<h3 id="site-features" tabindex="-1">Site Features <a class="header-anchor" href="#site-features" aria-label="Permalink to &quot;Site Features&quot;">&ZeroWidthSpace;</a></h3>
+<ul>
+<li>Star Only Toggle</li>
+<li>Dark / Light Modes</li>
+<li>Feedback System</li>
+<li>Improved UI + Site Speed</li>
+<li>Improved Search Functionality</li>
+<li>Automatic Updates</li>
+<li>Table of Content Sidebars</li>
+<li>Storage URLs Direct to Site Rather than Reddit</li>
+<li>NSFW Section</li>
+</ul>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Monthly Updates [November]]]></title>
+            <link>https://fmhy.net/posts/nov-2023</link>
+            <guid>https://fmhy.net/posts/nov-2023</guid>
+            <pubDate>Wed, 01 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<Post authors="['nbats', 'taskylizard']" /><p><strong>Wiki Updates</strong></p>
+<ul>
+<li>
+<p>We've started work on a <strong><a href="https://fmhy.net" target="_blank" rel="noreferrer">New Website</a></strong>. Keep in mind this
+is still in beta, and will eventually be moved to our main domains once we
+feel its ready.</p>
+</li>
+<li>
+<p>Added
+<a href="https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_hosting_tools" target="_blank" rel="noreferrer">Hosting</a>,
+<a href="https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25BA_cybersecurity_tools" target="_blank" rel="noreferrer">Cybersecurity</a>
+and
+<a href="https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25BA_database_tools" target="_blank" rel="noreferrer">Database</a>
+sections to Dev Tools.</p>
+</li>
+<li>
+<p>Added
+<a href="https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_frontends" target="_blank" rel="noreferrer">Privacy Frontends</a>
+section to Privacy Tools.</p>
+</li>
+<li>
+<p>Added
+<a href="https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-misc#wiki_.25B7_fediverse_tools" target="_blank" rel="noreferrer">Fediverse Tools</a>
+section to Tools.</p>
+</li>
+<li>
+<p>Split Git Tools into two sections:
+<a href="https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_git_tools" target="_blank" rel="noreferrer">Git</a>
+/
+<a href="https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_github_tools" target="_blank" rel="noreferrer">GitHub</a>.</p>
+</li>
+<li>
+<p>Added subsections to all the main
+<a href="https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage" target="_blank" rel="noreferrer">storage sections</a>
+that needed them.</p>
+</li>
+<li>
+<p>Made our Discord <a href="https://redd.it/17f8msf" target="_blank" rel="noreferrer">public again</a>.</p>
+</li>
+</ul>
+<hr>
+<p><strong>Stars Added</strong> ⭐</p>
+<ul>
+<li>
+<p>Starred
+<a href="https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25BA_streaming_sites" target="_blank" rel="noreferrer">cinehub.wtf</a>
+in Streaming Sites. Solid UI, fast 1080p.</p>
+</li>
+<li>
+<p>Starred
+<a href="https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_single_server" target="_blank" rel="noreferrer">UpMovies</a>
+in Streaming Sites. This used to be known as sockshare, but they've updated
+their site and rebranded. Not always the best quality, but it really is one of
+the best sites to find obscure stuff, especially shows.</p>
+</li>
+<li>
+<p>Starred
+<a href="https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_live_tv_.2F_sports" target="_blank" rel="noreferrer">FSL</a>
+in Live TV sites.</p>
+</li>
+<li>
+<p>Starred
+<a href="https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_streaming_sites" target="_blank" rel="noreferrer">Squidify</a>
+in Audio Streaming. Popular anime / gaming audio streaming site.</p>
+</li>
+<li>
+<p>Starred
+<a href="https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki_.25BA_tracking_.2F_discovery" target="_blank" rel="noreferrer">Backloggd</a>
+in Game Tracking / Discovery. Game collection tracker with a really nice UI.</p>
+</li>
+<li>
+<p>Starred
+<a href="https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_local_frontends" target="_blank" rel="noreferrer">Fooocus</a>
+in AI Image Gen. Free, high quality image generator.</p>
+</li>
+<li>
+<p>Starred
+<a href="https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_privacy" target="_blank" rel="noreferrer">GrapheneOS</a>
+in Android Privacy. Privacy based operating system popular within privacy
+circles.</p>
+</li>
+<li>
+<p>Starred
+<a href="https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_encrypted_android_messengers" target="_blank" rel="noreferrer">Briar</a>
+in Encrypted Android Messengers. Privacy based android messenger popular
+within privacy circles.</p>
+</li>
+<li>
+<p>Starred
+<a href="https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_tools" target="_blank" rel="noreferrer">XDA</a>
+in Android Tools. Active android discussion forum.</p>
+</li>
+<li>
+<p>Starred
+<a href="https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_multi_browser" target="_blank" rel="noreferrer">hektCaptcha</a>
+in Extensions. Seems to work better than others like Buster now.</p>
+</li>
+<li>
+<p>Starred
+<a href="https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_drive_formatting_.2F_file_deletion" target="_blank" rel="noreferrer">SDelete</a>
+in Drive Formatting / File Deletion. Microsofts official file deletion tool.</p>
+</li>
+<li>
+<p>Starred
+<a href="https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_internet_speed_test" target="_blank" rel="noreferrer">Cloudflare Speed Test</a>
+in Speed Tests. Gives more info than a lot of the other sites do.</p>
+</li>
+<li>
+<p>Starred SSD and The Hitchhiker’s Guide in
+<a href="https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_privacy_guides" target="_blank" rel="noreferrer">Privacy Guides</a>.
+Some of the most in depth privacy guide sites out there.</p>
+</li>
+<li>
+<p>Starred Unreal Engine and Godot in
+<a href="https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_game_engines" target="_blank" rel="noreferrer">Game Engines</a>.
+Popular free engines used to create games.</p>
+</li>
+</ul>
+<hr>
+<p><strong>Things Removed</strong></p>
+<ul>
+<li>
+<p>Removed CrackHub as they've sadly decided to
+<a href="https://i.imgur.com/jaY0grY.png" target="_blank" rel="noreferrer">call it quits</a>. Huge thank you to them for
+providing such a solid site, and so many games to people for as long as they
+did. They will be missed.</p>
+</li>
+<li>
+<p>Unstarred PromptJungle in Online Image Generators as their bot is broken and
+Discord channels have been locked. Apparently they're going to make a
+comeback, but its been over a month now.</p>
+</li>
+<li>
+<p>Unstarred C1NE in Streaming Sites. It used to be good, but for whatever reason
+its extremely slow now.</p>
+</li>
+<li>
+<p>Unstarred Photopea as they caused a bunch of drama in the privacy community by
+<a href="https://yev.varyel.com/post/732023637981446144/psa-photopea-just-became-a-very-shady-option-for" target="_blank" rel="noreferrer">suddenly changing their ad policy</a>,
+and adding an anti-adblock detector to their site. I believe they've removed
+it, but a lot of people have lost trust in them now.</p>
+</li>
+<li>
+<p>Removed Privacy Pass from extensions as it no longer works.</p>
+</li>
+</ul>
+<hr>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Public Discord Server]]></title>
+            <link>https://fmhy.net/posts/discord</link>
+            <guid>https://fmhy.net/posts/discord</guid>
+            <pubDate>Tue, 24 Oct 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<Post authors="['nbats']" /><h1 id="public-url-https-discord-gg-5w9qjkupkd" tabindex="-1">Public URL: <a href="https://discord.gg/5W9QJKuPkD" target="_blank" rel="noreferrer">https://discord.gg/5W9QJKuPkD</a> <a class="header-anchor" href="#public-url-https-discord-gg-5w9qjkupkd" aria-label="Permalink to &quot;Public URL: https://discord.gg/5W9QJKuPkD&quot;">&ZeroWidthSpace;</a></h1>
+<hr>
+<h2 id="server-rules" tabindex="-1">Server Rules <a class="header-anchor" href="#server-rules" aria-label="Permalink to &quot;Server Rules&quot;">&ZeroWidthSpace;</a></h2>
+<ol>
+<li>Please be kind and helpful to one another, especially beginners.</li>
+<li>No selling or advertising anything paid.</li>
+<li>No direct links to pirated content.</li>
+<li>No NSFW content (or requests) outside of NSFW channels.</li>
+<li>No racism, sexism, ableism, homophobia, transphobia.</li>
+</ol>
+<hr>
+<p>Keep in mind <a href="https://redd.it/uto5vw" target="_blank" rel="noreferrer">Divolt</a> will still continue to work and
+connect to our discord for those who choose to use it.</p>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Monthly Updates [October]]]></title>
+            <link>https://fmhy.net/posts/oct-2023</link>
+            <guid>https://fmhy.net/posts/oct-2023</guid>
+            <pubDate>Sun, 01 Oct 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<Post authors="['nbats']" /><p><strong>Wiki Updates</strong></p>
+<ul>
+<li>
+<p>Created a <strong><a href="https://rentry.co/fmhy-guides" target="_blank" rel="noreferrer">List of Guides</a></strong> on rentry. This
+page is automated and updates itself anytime a new rentry is added or removed
+from FMHY. You can also download the guides yourself by using this
+<a href="https://gist.github.com/Rust1667/efc055debaf4876e4de39cc0d32f18c1" target="_blank" rel="noreferrer">script</a>.</p>
+</li>
+<li>
+<p>Made a <a href="/gamingpiracyguide/#pokémon-tools">Pokémon</a>
+section in Gaming Tools and an
+<a href="/internet-tools.html#email-tools">Email</a> section in Internet
+Tools.</p>
+</li>
+<li>
+<p>Added <a href="https://i.imgur.com/mgYq8nF.png" target="_blank" rel="noreferrer">emojis</a> to indicate when we're linking
+3rd party indexes, or our storage page:</p>
+</li>
+</ul>
+<p>🌐 = 3rd Party Indexes (i.e. /r/PiratedGames Mega, Awesome Lists etc.)</p>
+<p>↪️ = Storage Links</p>
+<hr>
+<p><strong>Stars Added</strong> ⭐</p>
+<ul>
+<li>
+<p>Starred <a href="/ai/#ai-chatbots">Nova AI</a> in AI Chatbots.
+Gives free GPT-4 tokens.</p>
+</li>
+<li>
+<p>Starred <a href="/gamingpiracyguide/#rom-sites">BlueROMs</a> in ROM
+sites. Simple DDL site with lots of systems.</p>
+</li>
+<li>
+<p>Starred <a href="/storage/#file-sharing-tools">Qiwi</a> in File
+Hosts. Fast host that's becoming popular in piracy circles.</p>
+</li>
+<li>
+<p>Starred Moo and Media in
+<a href="/videopiracyguide/#drives--directories">Video Drives</a>.
+Fast drives with lots of content.</p>
+</li>
+<li>
+<p>Starred <a href="/gamingpiracyguide/#rom-sites">WiiUDownloader</a>
+in ROM sites. Updated more frequently than WiiUSBHelper.</p>
+</li>
+<li>
+<p>Starred <a href="/videopiracyguide/#live-tv--sports">Time4TV</a> in
+Live TV. Fast streams, lots of channels.</p>
+</li>
+<li>
+<p>Starred <a href="/storage/#userscript-managers">TamperMonkey</a> in
+Userscript Managers. Updated more frequently than GreaseMonkey.</p>
+</li>
+<li>
+<p>Starred <a href="/storage/#compression-programs">PeaZip</a> in File
+Archivers. Open-source, supports many formats.</p>
+</li>
+<li>
+<p>Starred <a href="/android-iosguide/#android-streaming">Miru</a> in
+Android Streaming. Open-source, multi-format media app.</p>
+</li>
+<li>
+<p>Starred <a href="/linuxguide/#mac-tools--apps">gibMacOS</a> in Mac
+Tools. Easily download MacOS.</p>
+</li>
+<li>
+<p>Starred <a href="/linuxguide/#mac-software">AppsTorrent</a> in Mac
+Software. Popular Mac Software site with many Apps.</p>
+</li>
+<li>
+<p>Starred <a href="/video-tools.html">PlayPhrase</a> in Video Tools.
+Search entire internet for video clips.</p>
+</li>
+<li>
+<p>Starred <a href="/storage/#note-taking--to-do-apps">Magic ToDo</a>
+in To Do Apps. Automatic Task Breakdown AI.</p>
+</li>
+<li>
+<p>Starred <a href="/miscguide/#health">SafeSubstance</a> in Health.
+Drug Information / Side Effects.</p>
+</li>
+<li>
+<p>Starred <a href="https://tinykittens.com/" target="_blank" rel="noreferrer">TinyKittens</a> in General Tools. Kitten
+Rescue / Donation website.</p>
+</li>
+</ul>
+<hr>
+<p><strong>Things Removed</strong></p>
+<ul>
+<li>
+<p>Removed RSLOAD, as they’ve uploaded the exact same version of malwarebytes
+with malware that FileCR got in trouble for. We’ve emailed them, so hopefully
+they remove it soon and we can add them back.</p>
+</li>
+<li>
+<p>Removed marin.moe from Anime Streaming as its redirecting to something else
+now.</p>
+</li>
+<li>
+<p>Removed AdGuard extra and other adblock defenders as they're
+<a href="https://ibb.co/xgrtbBZ" target="_blank" rel="noreferrer">redundant</a> with ublock.</p>
+</li>
+<li>
+<p>Removed SteamSkins as Steam dropped support for them in the last update.</p>
+</li>
+<li>
+<p>Removed Saikou from Android Anime as their GitHub has been DMCA'd.</p>
+</li>
+<li>
+<p>Removed Uptobox from File Hosts as their datacenter was
+<a href="https://torrentfreak.com/uptobox-goes-dark-following-police-raids-on-french-datacenters-230920/" target="_blank" rel="noreferrer">raided by french police</a>.</p>
+</li>
+</ul>
+<hr>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Monthly Updates [September]]]></title>
+            <link>https://fmhy.net/posts/sept-2023</link>
+            <guid>https://fmhy.net/posts/sept-2023</guid>
+            <pubDate>Fri, 01 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<Post authors="['nbats']" /><p><strong>Wiki Updates</strong></p>
+<ul>
+<li>
+<p>Split Linux Tools into subcategories:
+<a href="/linuxguide/#linux-system">System</a>,
+<a href="/linuxguide/#linux-apps">Apps</a>,
+<a href="/linuxguide/#linux-internet">Internet</a>,
+<a href="/linuxguide/#terminal--shell">Terminal / Shell</a> and
+<a href="/linuxguide/#customization">Customization</a>.</p>
+</li>
+<li>
+<p>NSFW has been <a href="/nsfwpiracy/">overhauled</a> with a bunch of
+new sites and sections.</p>
+</li>
+<li>
+<p>Added Z-Libs new
+<a href="/readingpiracyguide/#reading-sites">Desktop App / Extension</a>
+in Reading Sites.</p>
+</li>
+<li>
+<p>Replaced 9anime with
+<a href="/videopiracyguide/#anime-streaming">AniWave</a> as they've
+<a href="https://torrentfreak.com/9anime-rebrands-to-aniwave-citing-legal-troubles-230802/" target="_blank" rel="noreferrer">rebranded</a>
+to avoid blocking.</p>
+</li>
+<li>
+<p>Replaced link to IDM in Download Managers with
+<a href="/storage/#file-download-managers">activation script</a>.</p>
+</li>
+<li>
+<p>Replaced /r/VPN with <a href="https://www.reddit.com/r/vpns/" target="_blank" rel="noreferrer">/r/VPNs</a> in our sidebar,
+as it allows users to discuss providers.</p>
+</li>
+</ul>
+<hr>
+<p><strong>Stars Added</strong> ⭐</p>
+<ul>
+<li>
+<p>Starred SusFlix and The Movie Archive in
+<a href="/videopiracyguide/#multi-server">Streaming Sites</a>. Big
+libraries, 4K quality.</p>
+</li>
+<li>
+<p>Starred <a href="/videopiracyguide/#drives--directories">Dhokla</a>
+in video downloading. Big drive, fast downloads.</p>
+</li>
+<li>
+<p>Starred
+<a href="https://github.com/LiLittleCat/awesome-free-chatgpt/blob/main/README_en.md" target="_blank" rel="noreferrer">Awesome Free ChatGPT</a>
+in AI Chatbots. Huge list of free chatbots.</p>
+</li>
+<li>
+<p>Starred <a href="/storage/#compression-programs">NanaZip</a> in
+File Archivers. Open-source, modern design, preferred over 7-Zip by some.</p>
+</li>
+<li>
+<p>Starred <a href="/torrentpiracyguide/#torrent-clients">Deluge</a>
+in Torrent Clients. Open-source client with many useful
+<a href="https://dev.deluge-torrent.org/wiki/Plugins" target="_blank" rel="noreferrer">plugins</a>.</p>
+</li>
+<li>
+<p>Starred <a href="/android-iosguide/#android-audio">InnerTune</a> in
+Android Audio. Open-source YouTube Music client.</p>
+</li>
+<li>
+<p>Starred APKPure and UpToDown in
+<a href="/android-iosguide/#untouched-apks">Untouched APKs</a>.</p>
+</li>
+<li>
+<p>Starred EverythingMoe and Ripped in
+<a href="/miscguide/#indexes">Indexes</a>. Solid Piracy Indexes.</p>
+</li>
+<li>
+<p>Starred
+<a href="/readingpiracyguide/#comic-sites">ReadAllComics</a> in
+Comics. Big library, no captcha.</p>
+</li>
+<li>
+<p>Starred
+<a href="/videopiracyguide/#sports-streaming">WatchWrestling24</a>
+in Sports Streaming. Good video hosts, quick uploads.</p>
+</li>
+<li>
+<p>Starred <a href="/adblockvpnguide/#antivirus">Sandboxie Plus</a> in
+Antivirus. User-friendly software sandbox /
+<a href="https://rentry.co/sandboxie-guide" target="_blank" rel="noreferrer">Guide</a>.</p>
+</li>
+<li>
+<p>Starred <a href="/miscguide/#shopping">DarkPatternsTipline</a> in
+Shopping. Deceptive Service Design Tipline.</p>
+</li>
+<li>
+<p>Starred <a href="/storage/#package-managers">Scoop</a> in Package
+Managers. Command-line installer for Windows.</p>
+</li>
+<li>
+<p>Starred <a href="/toolsguide/#file-tools">SA Drive</a> in File
+Tools. Google Service Account Drive Manager.</p>
+</li>
+<li>
+<p>Starred <a href="/storage/#image-upscalers">OpenModelDB</a> in
+Image Upscaling. Upscaling Model Database.</p>
+</li>
+<li>
+<p>Starred <a href="/toolsguide/#video-tools">EyeCndy</a> in Video
+Tools. Camera technique library.</p>
+</li>
+</ul>
+<hr>
+<p><strong>Things Removed</strong></p>
+<ul>
+<li>
+<p>We've stopped accepting and started removing all AI tools that require paid
+API keys to function.</p>
+</li>
+<li>
+<p>Removed FileCR as they've been
+<a href="https://rentry.co/filecr_malware" target="_blank" rel="noreferrer">caught with malware</a>, and still haven't
+removed it.</p>
+</li>
+<li>
+<p>Removed AnonFiles as they've decided to quit due to people
+<a href="https://i.imgur.com/lXoEqAV.png" target="_blank" rel="noreferrer">abusing the site</a>.</p>
+</li>
+<li>
+<p>Unstarred WinRar in File Archivers. People feel its not as useful anymore
+given open-source options like 7-Zip / NanaZip.</p>
+</li>
+<li>
+<p>Removed RVX from ReVanced section as its been
+<a href="https://github.com/inotia00/revanced-documentation/wiki/Announcement" target="_blank" rel="noreferrer">discontinued</a>.</p>
+</li>
+<li>
+<p>Removed PDF Drive in PDF Sites as downloads no longer work.</p>
+</li>
+<li>
+<p>Removed TronScript in Debloaters. Some people consider it
+<a href="https://i.imgur.com/K5hf5Bu.png" target="_blank" rel="noreferrer">overkill</a>.</p>
+</li>
+<li>
+<p>Removed Poe in AI Chatbots as its now limited to 10 daily messages (or 100 in
+some countries.)</p>
+</li>
+<li>
+<p>Removed the &quot;Everything I Know&quot; wiki from Indexes as they've gone
+<a href="https://i.imgur.com/ig8jPGL.jpg" target="_blank" rel="noreferrer">paid</a>. You can get around it by blocking the
+overlay, but we're not interested in sending traffic their way anymore.</p>
+</li>
+<li>
+<p>Unstarred 1337x and added <a href="https://pastebin.com/Rc9MYMZ7" target="_blank" rel="noreferrer">warning</a> to avoid
+software / games, as they've had issues with malware, including a torrent that
+was up for days after being reported. They did remove it eventually, and
+<a href="https://i.imgur.com/ij4CXIm.png" target="_blank" rel="noreferrer">respond</a> to the situation, so we feel it
+would be unfair to remove their site entirely. Our hope is that 1337x acts
+quicker in the future, avoids situations like this, and begins to earn trust
+back from people over time.</p>
+</li>
+</ul>
+<hr>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[We Removed FileCR as we Found Malware]]></title>
+            <link>https://fmhy.net/posts/filecr-malware</link>
+            <guid>https://fmhy.net/posts/filecr-malware</guid>
+            <pubDate>Mon, 14 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<Post authors="['nbats']" /><h1 id="filecr-malware" tabindex="-1">FileCR Malware <a class="header-anchor" href="#filecr-malware" aria-label="Permalink to &quot;FileCR Malware&quot;">&ZeroWidthSpace;</a></h1>
+<p>Note: The malware is not exclusive to FileCR and we don't have proof FileCR is
+intentionally hosting it, but they haven't removed it. Possible sources of the
+malware include some uploaders on sanet, but it seems to be coming from multiple
+sources.</p>
+<p>Since the malware has been found coming from multiple sources, info about the
+malware itself has moved to <a href="https://rentry.co/big_load_malware" target="_blank" rel="noreferrer">here</a>. Check
+there for technical info or to check if you've been infected.</p>
+<p>So far, malware has been found in the following cracks, but it is likely it is
+undiscovered in many more downloads because of how large their catalog is.</p>
+<ul>
+<li><a href="https://filecr.com/windows/kms-matrix/" target="_blank" rel="noreferrer">https://filecr.com/windows/kms-matrix/</a></li>
+<li><a href="https://filecr.com/windows/windows-activator-by-goddy/" target="_blank" rel="noreferrer">https://filecr.com/windows/windows-activator-by-goddy/</a></li>
+<li><a href="https://filecr.com/windows/stardock-start11" target="_blank" rel="noreferrer">https://filecr.com/windows/stardock-start11</a></li>
+<li><a href="https://filecr.com/windows/malwarebytes-premium" target="_blank" rel="noreferrer">https://filecr.com/windows/malwarebytes-premium</a></li>
+<li><a href="https://filecr.com/windows/navicat-premium" target="_blank" rel="noreferrer">https://filecr.com/windows/navicat-premium</a> (Navicat Premium 16.2.3)</li>
+<li><a href="https://filecr.com/windows/outbyte-driver-updater" target="_blank" rel="noreferrer">https://filecr.com/windows/outbyte-driver-updater</a></li>
+<li><a href="https://filecr.com/windows/jetbrains-pycharm" target="_blank" rel="noreferrer">https://filecr.com/windows/jetbrains-pycharm</a> (Premium release, you need
+<a href="https://greasyfork.org/en/scripts/403170-bypass-filecrypt" target="_blank" rel="noreferrer">https://greasyfork.org/en/scripts/403170-bypass-filecrypt</a> to access)</li>
+<li><a href="https://filecr.com/windows/avast-premier-antivirus" target="_blank" rel="noreferrer">https://filecr.com/windows/avast-premier-antivirus</a></li>
+</ul>
+<p>So far FileCR has not responded at all, which is unusual as they are usually
+very active and have removed malware in the past as quickly as 6 hours. Because
+the malware is included in multiple unrelated cracks and because they have not
+responded at all to reports, they are likely to be in some way involved in
+spreading or creating the malware. Also, some of the malware had descriptions
+written just for FileCR, which is unusual, and the description for KMS matrix
+contains lies about the activation given by the software.</p>
+<h2 id="samples" tabindex="-1"><a href="https://rentry.co/big_load_malware#samples" target="_blank" rel="noreferrer">Samples</a> <a class="header-anchor" href="#samples" aria-label="Permalink to &quot;[Samples](https://rentry.co/big_load_malware#samples)&quot;">&ZeroWidthSpace;</a></h2>
+<h2 id="am-i-infected" tabindex="-1"><a href="https://rentry.co/big_load_malware#am-i-infected" target="_blank" rel="noreferrer">Am I infected?</a> <a class="header-anchor" href="#am-i-infected" aria-label="Permalink to &quot;[Am I infected?](https://rentry.co/big_load_malware#am-i-infected)&quot;">&ZeroWidthSpace;</a></h2>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Monthly Updates [August]]]></title>
+            <link>https://fmhy.net/posts/aug-2023</link>
+            <guid>https://fmhy.net/posts/aug-2023</guid>
+            <pubDate>Tue, 01 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<Post authors="['nbats']" /><p><strong>Wiki Updates</strong></p>
+<ul>
+<li>
+<p>Moved fmhy.ml to <strong><a href="/">fmhy.net</a></strong>, and updated its UI to more
+closely match <a href="/">fmhy.pages.dev</a>.</p>
+</li>
+<li>
+<p>Separated Android Tools into subcategories:
+<a href="/android-iosguide/#android-device">Device</a>,
+<a href="/android-iosguide/#android-utilities">Utilities</a>,
+<a href="/android-iosguide/#android-internet">Internet</a>,
+<a href="/android-iosguide/#android-camera">Camera</a> and
+<a href="/android-iosguide/#customization">Customization</a>.</p>
+</li>
+<li>
+<p>Added a <a href="/edupiracyguide/#engineering">Engineering</a>
+section to Educational.</p>
+</li>
+<li>
+<p>Renamed Multi Hosts to
+<a href="/videopiracyguide/#multi-server">Multi Server</a>,
+Dedicated Hosts to
+<a href="/videopiracyguide/#single-server">Single Server</a>, and
+bumped Multi above Single as they're generally better.</p>
+</li>
+<li>
+<p>Moved all the APK sections out of storage, and back into the main
+<a href="/android-iosguide/#android-apks">Android section</a>.</p>
+</li>
+<li>
+<p>Combined all
+<a href="/non-english/#indian-languages">Indian Language sites</a>
+into one section in Non-Eng, as most host content for more than one language.</p>
+</li>
+</ul>
+<hr>
+<p><strong>Stars Added</strong> ⭐</p>
+<ul>
+<li>
+<p>Starred <a href="/gamingpiracyguide/#download-games">Ova Games</a>
+in Game Download. Big library, fast hosts.</p>
+</li>
+<li>
+<p>Starred <a href="/videopiracyguide/#multi-server">SmashyStream</a>
+in Streaming Sites. Nice UI, fast 1080p.</p>
+</li>
+<li>
+<p>Starred
+<a href="/storage/#game-libraries--launcher">BlackPearlOrigin</a>
+in Game Launchers. New game launcher and downloader, made by our friends.</p>
+</li>
+<li>
+<p>Starred Androeed and Modyolo in
+<a href="/android-iosguide/#modded-apks">Modded APKs</a>.</p>
+</li>
+<li>
+<p>Starred <a href="/gamingpiracyguide/#emulation--roms">Skraper</a>
+in Emulation. Automate ROM Covers / Metadata.</p>
+</li>
+<li>
+<p>Starred <a href="/gamingpiracyguide/#rom-sites">ROMhacking</a> in
+ROM Sites. One of the oldest sites for fan translations.</p>
+</li>
+<li>
+<p>Starred <a href="/videopiracyguide/#live-tv--sports">FreeSports</a>
+in Live Sports. A live sports site that isn't flooded with ads like most are.</p>
+</li>
+<li>
+<p>Starred
+<a href="/videopiracyguide/#sports-streaming">SoccerCatch</a> in
+Sports Streaming. Full Match replays.</p>
+</li>
+<li>
+<p>Starred <a href="/storage/#vfx-sites">DownloadPirate</a> in VFX
+Sites. Popular site for video effects and software.</p>
+</li>
+<li>
+<p>Starred <a href="/storage/#windows-10-debloater">SophiApp</a> in
+debloaters. Gives good explanations for its tweaks making it safer for new
+users.</p>
+</li>
+<li>
+<p>Starred
+<a href="https://ash.fail/blog/20230625-actually-good-distro-recomendations-for-beginners.html" target="_blank" rel="noreferrer">Actually Good Distros</a>
+in Linux. Beginner distro guides.</p>
+</li>
+</ul>
+<hr>
+<p><strong>Things Removed</strong></p>
+<ul>
+<li>
+<p>Removed Bromite as they've <a href="https://i.imgur.com/uM3ryHR.png" target="_blank" rel="noreferrer">stopped updates</a>,
+and replaced it with <a href="https://github.com/uazo/cromite" target="_blank" rel="noreferrer">Cromite</a> which will
+continue to be updated by one of their devs.</p>
+</li>
+<li>
+<p>Removed AI Text Detectors as they're known for
+<a href="https://arstechnica.com/information-technology/2023/07/openai-discontinues-its-ai-writing-detector-due-to-low-rate-of-accuracy/" target="_blank" rel="noreferrer">being inaccurate</a>.</p>
+</li>
+<li>
+<p>Unstarred SoftArchive in Software as people have become annoyed with their
+slow hosts.</p>
+</li>
+<li>
+<p>Unstarred LookMovie in Streaming as people don't like the fact 1080p is behind
+premium.</p>
+</li>
+<li>
+<p>Unstarred QuickBoost in Tweaking as the app doesn't give details as to what
+each tweak actually does.</p>
+</li>
+<li>
+<p>Unstarred Sockshare in Streaming as their original domain died, and it doesn't
+have the best UI anyways.</p>
+</li>
+<li>
+<p>Removed AnimeKaizoku from Anime Streaming as they've shutdown.</p>
+</li>
+<li>
+<p>Removed DeepFloyd from Image Generators as its been paused for over a month.</p>
+</li>
+<li>
+<p>Removed Appnee from Software Sites. The MAS team found that they host many
+<a href="https://i.imgur.com/KmDKUw4.png" target="_blank" rel="noreferrer">unsafe activators</a>. We don't think Appnee is
+purposefully malicious, they just need to be more careful and clean things up
+before we can add them again.</p>
+</li>
+</ul>
+<hr>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Monthly Updates [July]]]></title>
+            <link>https://fmhy.net/posts/july-2023</link>
+            <guid>https://fmhy.net/posts/july-2023</guid>
+            <pubDate>Sat, 01 Jul 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<Post authors="['nbats']" /><p><strong>Wiki Updates</strong></p>
+<ul>
+<li>
+<p>Added a
+<a href="/edupiracyguide/#study--research">Study / Research</a>
+section to Educational.</p>
+</li>
+<li>
+<p>Added a <a href="/miscguide/#travel">Travel</a> section to
+Miscellaneous.</p>
+</li>
+<li>
+<p>Added a <a href="/system-tools.html#hardware-tools">Hardware</a> section
+to System Tools.</p>
+</li>
+<li>
+<p>Added qualities (720p, 1080p) to
+<a href="/videopiracyguide/#anime-streaming">Anime Streaming</a>
+sites.</p>
+</li>
+<li>
+<p><a href="/gamingpiracyguide/#steam--epic">Combined</a> Steam / Epic
+Tools with DLC Unlockers.</p>
+</li>
+<li>
+<p>Linked the <a href="https://ibb.co/X8K2GTc" target="_blank" rel="noreferrer">&quot;missing sections&quot;</a> in all index pages.
+i.e. Image Tools, Dev Tools, Storage, Base64, NSFW and Unsafe.</p>
+</li>
+</ul>
+<hr>
+<p><strong>Stars Added</strong> ⭐</p>
+<ul>
+<li>
+<p>Starred <a href="/videopiracyguide/#multi-hosts">Seez</a> in
+Streaming Sites. Nice UI, fast 1080p.</p>
+</li>
+<li>
+<p>Starred <a href="/videopiracyguide/#dedicated-hosts">SockShare</a>
+in Streaming Sites. Great for obscure TV.</p>
+</li>
+<li>
+<p>Starred <a href="/videopiracyguide/#download-sites">UHDMovies</a>
+in Video Download. 4K Movie Host.</p>
+</li>
+<li>
+<p>Starred
+<a href="/gamingpiracyguide/#tracking--discovery">Glitchwave</a> in
+Game Tracking. RYM's new game rating site.</p>
+</li>
+<li>
+<p>Starred <a href="/audiopiracyguide/#streaming-sites">hate5six</a>
+in Audio Streaming. Huge collection of live band videos.</p>
+</li>
+<li>
+<p>Starred
+<a href="/audiopiracyguide/#download-sites">SittingOnClouds</a> in
+Audio Download. Game / Anime Soundtracks.</p>
+</li>
+<li>
+<p>Starred <a href="/gamingpiracyguide/#steam--epic">Koalageddon</a>
+in Steam / Epic. DLC Unlocker.</p>
+</li>
+<li>
+<p>Starred <a href="/android-iosguide/#ios-audio">SpotC++</a> in iOS
+Audio. Spotilife + Sposify IPA.</p>
+</li>
+<li>
+<p>Starred <a href="/toolsguide/#youtube-tools">Favoree</a> in YouTube
+Tools. Channel Discovery.</p>
+</li>
+<li>
+<p>Starred <a href="/adblockvpnguide/#browser-tools">CloakStream</a>
+in Privacy Tools. Encrypt Download URLs.</p>
+</li>
+</ul>
+<hr>
+<p><strong>Things Removed</strong></p>
+<ul>
+<li>
+<p>Removed Soap2Day in Streaming Sites as they've shutdown.</p>
+</li>
+<li>
+<p>Unstarred JustChill in Streaming Sites as they've been dealing with DDoS
+attacks and now require logins.</p>
+</li>
+<li>
+<p>Removed Rinzry in Video Download as drive generators no longer work.</p>
+</li>
+<li>
+<p>Removed Mudome in Audio Streaming as it turned into a NSFW site.</p>
+</li>
+<li>
+<p>Removed Demonoid as they've gone private.</p>
+</li>
+<li>
+<p>Unstarred Imgur in Image Hosts as they've mass deleted everything not tied to
+accounts.</p>
+</li>
+<li>
+<p>Unstarred IVPN as they've decided to remove
+<a href="https://www.ivpn.net/blog/gradual-removal-of-port-forwarding/" target="_blank" rel="noreferrer">port forwarding</a>.</p>
+</li>
+<li>
+<p>Removed Chromium from the Unsafe List, as some people feel strongly that
+<a href="https://www.eff.org/deeplinks/2021/12/chrome-users-beware-manifest-v3-deceitful-and-threatening" target="_blank" rel="noreferrer">Manifest V3</a>
+isn't enough justification to label it unsafe.</p>
+</li>
+</ul>
+<hr>
+<hr>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Monthly Updates [June]]]></title>
+            <link>https://fmhy.net/posts/jun-2023</link>
+            <guid>https://fmhy.net/posts/jun-2023</guid>
+            <pubDate>Thu, 01 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<Post authors="['nbats']" /><p><strong>Wiki Updates</strong></p>
+<ul>
+<li>
+<p>Added a
+<a href="/gamingpiracyguide/#chess--checkers">Chess / Checkers</a>
+section to Browser Games.</p>
+</li>
+<li>
+<p>Added a <a href="/ai/#stable-diffusion">Stable Diffusion</a>
+section to Artificial Intelligence.</p>
+</li>
+<li>
+<p>Added qualities (720p, 1080p, 4k) to
+<a href="/videopiracyguide/#download-sites">Video Download</a>
+sites.</p>
+</li>
+<li>
+<p>Created a <a href="https://github.com/fmhy" target="_blank" rel="noreferrer">Git Organization</a> and combined all FMHY
+related projects into it.</p>
+</li>
+<li>
+<p>Updated the <a href="https://rentry.org/Piracy-BG" target="_blank" rel="noreferrer">Beginners Guide</a> with new links, a
+FAQ section and more.</p>
+</li>
+<li>
+<p>Imgur is removing everything not tied to an account, so we've gone through and
+replaced all our images with ImgBB.</p>
+</li>
+<li>
+<p>Added <a href="https://ibb.co/HCB7BS9" target="_blank" rel="noreferrer">Friend Wiki's</a> to our sidebar.</p>
+</li>
+</ul>
+<hr>
+<p><strong>Stars Added</strong> ⭐</p>
+<ul>
+<li>
+<p>Starred <a href="/storage/#game-download-cse">Rezi</a> in Gaming
+Sites. Multi-site game download search.</p>
+</li>
+<li>
+<p>Starred <a href="https://huggingface.co/spaces/uwnlp/guanaco-playground-tgi" target="_blank" rel="noreferrer">Guanaco</a>,
+<a href="https://callannie.ai/" target="_blank" rel="noreferrer">Call Annie</a>, <a href="https://chatbot.theb.ai" target="_blank" rel="noreferrer">BAI</a> and
+<a href="https://chat.lmsys.org/" target="_blank" rel="noreferrer">LMSYS</a> in AI Chatbots.</p>
+</li>
+<li>
+<p>Starred <a href="https://zoo.replicate.dev/" target="_blank" rel="noreferrer">Zoo</a> and
+<a href="https://huggingface.co/spaces/DeepFloyd/IF" target="_blank" rel="noreferrer">DeepFloyd IF</a> in Image
+Generators.</p>
+</li>
+<li>
+<p>Starred <a href="/ai/#chatgpt-prompts">Prompt Engineering Guide</a>
+in ChatGPT prompts.</p>
+</li>
+<li>
+<p>Starred <a href="/ai/#text-to-speech">Bark</a> in Text to Speech.</p>
+</li>
+<li>
+<p>Starred
+<a href="/audiopiracyguide/#download-apps">Firehawk52 Guide</a> in
+Audio Downloading.</p>
+</li>
+<li>
+<p>Starred <a href="/downloadpiracyguide/#freeware-sites">store.rg</a>
+in Freeware Sites.</p>
+</li>
+<li>
+<p>Starred <a href="/toolsguide/#tweaking">f.lux</a> in System
+Tweaking.</p>
+</li>
+<li>
+<p>Starred <a href="/android-iosguide/#android-tools">MacroDroid</a>
+in Android Tools.</p>
+</li>
+<li>
+<p>Starred <a href="https://www.ratingraph.com/" target="_blank" rel="noreferrer">Rating Graph</a> and
+<a href="https://deepsearch.mycelebs.com/movie" target="_blank" rel="noreferrer">DeepSearch</a> in Tracking / Discovery.</p>
+</li>
+<li>
+<p>Starred
+<a href="/devtools/#learning--cheat-sheets">Programming Learning Resources</a>
+in Dev Tools.</p>
+</li>
+<li>
+<p>Starred
+<a href="/audiopiracyguide/#ambient--relaxation">CityHop</a> in
+Ambient / Relaxation.</p>
+</li>
+<li>
+<p>Starred <a href="/miscguide/#chat--forums">Knockout</a> in Chat /
+Forums. Made by members of facepunch forums after it shut down.</p>
+</li>
+</ul>
+<hr>
+<p><strong>Things Removed</strong></p>
+<ul>
+<li>
+<p>Removed and unstarred RARBG as they have decided to
+<a href="https://ibb.co/zxcLTpq" target="_blank" rel="noreferrer">call it quits</a>.</p>
+</li>
+<li>
+<p>Unstarred Mullvad in VPNs as they are
+<a href="https://mullvad.net/en/blog/2023/5/29/removing-the-support-for-forwarded-ports/" target="_blank" rel="noreferrer">removing support for port forwarding</a>.</p>
+</li>
+<li>
+<p>Unstarred Patoghu in Download Sites. They've added
+<a href="https://ibb.co/2SjzZb1" target="_blank" rel="noreferrer">persian captchas</a> to their downloads, making the site
+useless to english users.</p>
+</li>
+<li>
+<p>Unstarred MagicBrush in AI Image Generators. Not quite as good as other free
+options now.</p>
+</li>
+<li>
+<p>Unstarred Authy in Privacy Tools as its not open-source.</p>
+</li>
+<li>
+<p>Unstarred Awesome ChatGPT as its no longer updated.</p>
+</li>
+<li>
+<p>Bromite doesn't seem to be maintained anymore, so we've replaced the main repo
+with an <a href="/android-iosguide/">autobuild</a> for now.</p>
+</li>
+</ul>
+<hr>
+<hr>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Monthly Updates [May]]]></title>
+            <link>https://fmhy.net/posts/may-2023</link>
+            <guid>https://fmhy.net/posts/may-2023</guid>
+            <pubDate>Mon, 01 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<Post authors="['nbats']" /><p><strong>Wiki Updates</strong></p>
+<ul>
+<li>
+<p>Added <strong><a href="https://rentry.org/The-Piracy-Glossary" target="_blank" rel="noreferrer">The Piracy Glossary ☠️</a></strong>,
+where we've organized and given explanations to every piracy related term we
+could think of.</p>
+</li>
+<li>
+<p>Added Optimization, Tweaking, Virtual Machines and Terminal / CLI subsections
+to <a href="/system-tools.html">System Tools</a>.</p>
+</li>
+<li>
+<p>Added Chat / Forums, Image / Video, Interactive, Interesting and Random
+subsections to <a href="/miscguide/#fun-sites">Fun Sites</a>.</p>
+</li>
+<li>
+<p>Added <a href="/miscguide/#gardening">Gardening</a> section to
+Miscellaneous.</p>
+</li>
+<li>
+<p>Made a
+<a href="/downloadpiracyguide/#software-sites">Software CSE</a> out
+of the software sites.</p>
+</li>
+</ul>
+<hr>
+<p><strong>Stars Added</strong> ⭐</p>
+<ul>
+<li>
+<p>Starred
+<a href="/gamingpiracyguide/#download-games">Torrminatorr</a> in
+Gaming Sites. Tormminatorr is back!</p>
+</li>
+<li>
+<p>Starred <a href="/gamingpiracyguide/#download-games">GOG Games</a>
+in Gaming Sites. Gog is back on clearnet!</p>
+</li>
+<li>
+<p>Starred <a href="/downloadpiracyguide/#software-sites">FileCR</a>
+in Software Sites. FileCR has removed their anti-adblock.</p>
+</li>
+<li>
+<p>Starred
+<a href="/videopiracyguide/#dedicated-hosts">Streaminal-TV</a> in
+Streaming Sites. Nice UI, fast 1080p.</p>
+</li>
+<li>
+<p>Starred
+<a href="/videopiracyguide/#anime-downloading">TokyoInsider</a> in
+Anime Downloading. Anime site with single click DDLs.</p>
+</li>
+<li>
+<p>Starred <a href="/readingpiracyguide/#manga-sites">Cubari</a> in
+Manga Sites. Multi-site manga scraper.</p>
+</li>
+<li>
+<p>Starred <a href="https://addons.mozilla.org/en-US/firefox/addon/foxytab/" target="_blank" rel="noreferrer">FoxyTab</a>,
+<a href="https://addons.mozilla.org/en-US/firefox/addon/zoom-page-we/" target="_blank" rel="noreferrer">Zoom Page WE</a>
+and
+<a href="https://addons.mozilla.org/en-US/firefox/addon/scroll_anywhere/" target="_blank" rel="noreferrer">Scroll Anywhere</a>
+in Browser Extensions.</p>
+</li>
+<li>
+<p>Starred <a href="/miscguide/#random">PokeSmash</a> in Fun Sites.</p>
+</li>
+<li>
+<p>Re-added + starred
+<a href="/videopiracyguide/#cartoon-streaming">WCO</a> in Cartoon
+Streaming. This went paid for a bit, but seems to be free again.</p>
+</li>
+<li>
+<p>Re-added + starred
+<a href="/android-iosguide/#android-streaming">CloudStream</a> in
+Android Streaming. Some extensions are still getting updates.</p>
+</li>
+</ul>
+<hr>
+<p><strong>Things Removed</strong></p>
+<ul>
+<li>
+<p>Unstarred WebOasis in Indexes. Doesn't seem to be getting updated anymore. RIP
+Webby.</p>
+</li>
+<li>
+<p>Unstarred UniqueStream, HDMovieBox and Pirate-Media in streaming for being
+slow / dead.</p>
+</li>
+<li>
+<p>Unstarred Soft98 in software as most downloads are dead.</p>
+</li>
+<li>
+<p>Removed Midjourney in Image Gen as its
+<a href="https://youtu.be/EHnUydrurmk" target="_blank" rel="noreferrer">no longer free</a>.</p>
+</li>
+</ul>
+<hr>
+<hr>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Monthly Updates [April]]]></title>
+            <link>https://fmhy.net/posts/april-2023</link>
+            <guid>https://fmhy.net/posts/april-2023</guid>
+            <pubDate>Sat, 01 Apr 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<Post authors="['nbats']" /><p><strong>Wiki Updates</strong></p>
+<ul>
+<li>
+<p>Added
+<a href="https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai" target="_blank" rel="noreferrer">🤖 Artificial Intelligence</a>
+section.</p>
+</li>
+<li>
+<p>Added Optimization, Tabletop, and Git Gud subsections in
+<a href="/gamingpiracyguide/#gaming-tools">Gaming</a>.</p>
+</li>
+<li>
+<p>Split
+<a href="/edupiracyguide/#language-learning">Language Learning</a>
+into subsections.</p>
+</li>
+<li>
+<p>Split <a href="/miscguide/#shopping">Shopping</a> into subsections.</p>
+</li>
+<li>
+<p>Split the learning portion of <a href="/devtools/">Dev Tools</a>
+into subsections.</p>
+</li>
+<li>
+<p>Added Art Education section to
+<a href="/img-tools/#art-education">Image Tools</a>.</p>
+</li>
+<li>
+<p>Added NoFap section to NSFW to save souls.</p>
+</li>
+<li>
+<p>Added <a href="https://imgur.com/a/YXWUZun" target="_blank" rel="noreferrer">New Headers</a> to the subreddit.</p>
+</li>
+</ul>
+<hr>
+<p><strong>Stars Added</strong> ⭐</p>
+<ul>
+<li>
+<p>Starred <a href="/ai/#ai-chatbots">ChatPDF</a> in AI chatbots. AI
+that turns any book into a chatbot.</p>
+</li>
+<li>
+<p>Starred <a href="/videopiracyguide/#drives--directories">Foogle</a>
+in Video Download. Fast, single click video downloads.</p>
+</li>
+<li>
+<p>Starred <a href="/videopiracyguide/#dedicated-hosts">JustChill</a>
+in Streaming Sites. Nice UI, fast 1080p.</p>
+</li>
+<li>
+<p>Starred <a href="/videopiracyguide/#multi-hosts">movie-web</a>
+Streaming Sites. Nice UI, fast 1080p.</p>
+</li>
+<li>
+<p>Starred <a href="/videopiracyguide/#multi-hosts">Primewire</a> in
+Streaming Sites. Primewire has started adding links to pirated content again.</p>
+</li>
+<li>
+<p>Starred <a href="https://wotaku.pages.dev/" target="_blank" rel="noreferrer">Wotaku</a> in Indexes. Awesome Japanese
+piracy index.</p>
+</li>
+<li>
+<p>Starred <a href="/downloadpiracyguide/#software-sites">RLSLOAD</a>
+in software sites. Software site with single click downloads.</p>
+</li>
+<li>
+<p>Starred <a href="/img-tools/#screenshot-tools">Flameshot</a> in
+Screenshot Tools. Some people like this more than ShareX.</p>
+</li>
+</ul>
+<hr>
+<p><strong>Things Removed</strong></p>
+<ul>
+<li>
+<p>Removed FTUApps. FTU got caught with <a href="https://redd.it/120xk62" target="_blank" rel="noreferrer">malware</a> by
+/r/Piracy.</p>
+</li>
+<li>
+<p>Removed star from FileCR. They added new anti-adblock measures recently, and
+adblock defenders are no longer working for many users.</p>
+</li>
+<li>
+<p>Removed anti-anti-copy userscript. Script enables F7 &quot;Caret Browsing mode&quot;
+without telling the user its been enabled, or how to turn it off.</p>
+</li>
+</ul>
+<hr>
+<hr>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[How-to Search FMHY]]></title>
+            <link>https://fmhy.net/posts/search</link>
+            <guid>https://fmhy.net/posts/search</guid>
+            <pubDate>Sat, 07 Jan 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<Post authors="['nbats']" /><h3 id="fmhy-search" tabindex="-1"><a href="https://fmhy-search.streamlit.app/" target="_blank" rel="noreferrer">FMHY-Search</a> <a class="header-anchor" href="#fmhy-search" aria-label="Permalink to &quot;[FMHY-Search](https://fmhy-search.streamlit.app/)&quot;">&ZeroWidthSpace;</a></h3>
+<p>Search engine hosted on Streamlit</p>
+<hr>
+<h3 id="fmhy-pages-search" tabindex="-1"><a href="/">FMHY.pages Search</a> <a class="header-anchor" href="#fmhy-pages-search" aria-label="Permalink to &quot;[FMHY.pages Search](/)&quot;">&ZeroWidthSpace;</a></h3>
+<p>Search engine hosted on FMHY.pages</p>
+<hr>
+<h3 id="fmhy-tk-search" tabindex="-1"><a href="https://www.fmhy.tk/search" target="_blank" rel="noreferrer">FMHY.tk Search</a> <a class="header-anchor" href="#fmhy-tk-search" aria-label="Permalink to &quot;[FMHY.tk Search](https://www.fmhy.tk/search)&quot;">&ZeroWidthSpace;</a></h3>
+<p>Search engine hosted on FMHY.tk</p>
+<hr>
+<h3 id="github-search" tabindex="-1"><a href="https://github.com/nbats/FMHY/search?q=&amp;type=wikis" target="_blank" rel="noreferrer">GitHub Search</a> <a class="header-anchor" href="#github-search" aria-label="Permalink to &quot;[GitHub Search](https://github.com/nbats/FMHY/search?q=&amp;type=wikis)&quot;">&ZeroWidthSpace;</a></h3>
+<p>GitHub page search engine</p>
+<hr>
+<h3 id="python-script" tabindex="-1"><a href="https://github.com/Rust1667/a-FMHY-search-engine" target="_blank" rel="noreferrer">Python Script</a> <a class="header-anchor" href="#python-script" aria-label="Permalink to &quot;[Python Script](https://github.com/Rust1667/a-FMHY-search-engine)&quot;">&ZeroWidthSpace;</a></h3>
+<p>Search markdown via python script</p>
+<hr>
+<h3 id="raw-markdown" tabindex="-1"><a href="https://raw.githubusercontent.com/nbats/FMHYedit/main/single-page" target="_blank" rel="noreferrer">Raw Markdown</a> <a class="header-anchor" href="#raw-markdown" aria-label="Permalink to &quot;[Raw Markdown](https://raw.githubusercontent.com/nbats/FMHYedit/main/single-page)&quot;">&ZeroWidthSpace;</a></h3>
+<p>Search markdown manually (ctrl+f)</p>
+<hr>
+<h3 id="google-cses" tabindex="-1"><a href="https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-misc#wiki_.25B7_search_tools" target="_blank" rel="noreferrer">Google CSEs</a> <a class="header-anchor" href="#google-cses" aria-label="Permalink to &quot;[Google CSEs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-misc#wiki_.25B7_search_tools)&quot;">&ZeroWidthSpace;</a></h3>
+<p>Multi-site search engines</p>
+<hr>
+<h3 id="dupe-checker" tabindex="-1"><a href="https://gitlab.com/cevoj/fmhy-dupe-checker" target="_blank" rel="noreferrer">Dupe Checker</a> <a class="header-anchor" href="#dupe-checker" aria-label="Permalink to &quot;[Dupe Checker](https://gitlab.com/cevoj/fmhy-dupe-checker)&quot;">&ZeroWidthSpace;</a></h3>
+<p>FMHY Dupe Check Tool</p>
+]]></content:encoded>
+        </item>
+    </channel>
+</rss>
