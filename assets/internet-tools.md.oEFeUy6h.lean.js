@@ -1,0 +1,1 @@
+import{_ as e,c as r,o as a,V as t}from"./chunks/framework.MW_qCZy1.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"internet-tools.md","filePath":"internet-tools.md"}'),o={name:"internet-tools.md"},l=t("",34),s=[l];function n(i,h,f,g,c,p){return a(),r("div",null,s)}const k=e(o,[["render",n]]);export{m as __pageData,k as default};
